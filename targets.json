@@ -1,0 +1,16 @@
+{
+  "infrastructure_cluster": [
+    {
+      "node_id": "db_node_01",
+      "ip_address": "10.0.0.5"
+    },
+    {
+      "node_id": "web_node_02",
+      "ip_address": "10.0.0.6"
+    },
+    {
+      "node_id": "invalid; rm -rf /",
+      "ip_address": "192.168.1.1"
+    }
+  ]
+}
